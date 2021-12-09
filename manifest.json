@@ -1,0 +1,17 @@
+{
+  "name": "KwickQuick",
+  "short_name": "KwickQuick",
+  "start_url": "/",
+  "Scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "description": "KwickQuick Scanner App",
+  "theme_color":"#FED200",
+  "icons": [{
+    "src": "./assets/img/logo/logo.png",
+    "sizes": "200x200",
+    "type": "image/png",
+    "purpose": "any"
+  }]
+}
